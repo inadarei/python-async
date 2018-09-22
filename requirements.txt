@@ -1,0 +1,8 @@
+requests==2.19.1
+asyncio==3.4.3
+aiohttp==3.4.4
+pylint==2.1.1
+uvloop==0.11.2
+pur==5.0.0
+aiodns==1.1.1 # faster
+aiodns==1.1.1 # faster
